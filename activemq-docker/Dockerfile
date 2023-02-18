@@ -1,5 +1,0 @@
-FROM rabbitmq
-
-ENV RABBITMQ_USER user
-ENV RABBITMQ_PASSWORD user
-
