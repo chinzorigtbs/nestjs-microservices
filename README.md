@@ -1,2 +1,8 @@
-# nestjs-dummy-2
 # nestjs-microservices
+INCLUDED:
+  - NESTJS
+  - MICROSERVICES
+  - RABBITMQ
+  - DOCKER
+  - MYSQL
+  - MONGODB
